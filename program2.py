@@ -1,3 +1,12 @@
+# By submitting this assignment, I agree to the following:
+#  Aggies do not lie, cheat, or steal, or tolerate those who do�
+#  I have not given or received any unauthorized aid on this assignment�
+#
+# Name:         Luca Maddaleni
+# Section:      273
+# Assignment:   Lab 10b Program 2
+# Date:         10/31/2020
+
 loan_amount = float(input("What is the amount of the loan? "))
 interest_rate = float(input("What is the interest rate? ")) / 100
 monthly_payment = float(input("What is the monthly payment? "))
